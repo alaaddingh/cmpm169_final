@@ -43,8 +43,11 @@ Artistic Statement:
 
 Credits:
     FastAPI doc: https://fastapi.tiangolo.com/#alternative-api-docs
+    
     Pytorch doc on optim.Adam: https://docs.pytorch.org/docs/stable/generated/torch.optim.Adam.html
+    
     Joe Iddon's Github Page on Perlin Noise: https://joeiddon.github.io/projects/javascript/perlin.html
+    
     GPT for assistance in softmax use for probability distribution:  https://chatgpt.com/share/69323c93-9dac-8002-b274-be8255b4e4c7
 
 
