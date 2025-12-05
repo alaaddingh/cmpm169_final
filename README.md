@@ -42,6 +42,7 @@ Artistic Statement:
 
 
 Credits:
+
     FastAPI doc: https://fastapi.tiangolo.com/#alternative-api-docs
     
     Pytorch doc on optim.Adam: https://docs.pytorch.org/docs/stable/generated/torch.optim.Adam.html
